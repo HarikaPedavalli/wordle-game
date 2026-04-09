@@ -3,7 +3,7 @@
 A fully functional browser-based Wordle clone built with vanilla JavaScript — no frameworks, no dependencies.
 
 ## Live Demo
-[Play Now]()
+[Play Now](https://wordle-harika.netlify.app)
 
 ## Features
 - 6 attempts to guess the 5-letter word
