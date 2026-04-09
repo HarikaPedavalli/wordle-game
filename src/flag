@@ -1,0 +1,2 @@
+const FLAG = "bonfire";
+export default FLAG;
